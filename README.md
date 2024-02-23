@@ -14,4 +14,11 @@ Projeto do programa Formação Cybersecurity Specialist da DIO.me
 <img src="./Passo4.png" />
 <img src="./Passo5.png" />
 
-5.
+5. Execução do ataque:
+<img src="./Passo6.png" />
+<img src="./Passo7.png" />
+<img src="./Passo8.png" />
+<img src="./Passo9.png" />
+<img src="./Passo10.png" />
+
+
